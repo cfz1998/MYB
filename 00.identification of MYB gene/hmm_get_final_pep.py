@@ -5,7 +5,7 @@
 @Time    :   2022-02-12 13:02:06
 @Author  :   Zhangchaofan
 @Version :   1.0
-@Contact :   zhangchaofan01@cass.cn
+@Contact :   zhangchaofan22@163.com
 @License :   (C)Copyright 2022-2025
 @Desc    :   None
 @Usage   :   python hmm_get_final_pep.py -i [hmm_ouf] -o [pep_id] -k [domain_name]

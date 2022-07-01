@@ -5,7 +5,7 @@
 @Time    :   2021/09/07 20:32:36
 @Author  :   Zhangchaofan
 @Version :   1.0
-@Contact :   zhangchaofan01@cass.cn
+@Contact :   zhangchaofan22@163.com
 @License :   (C)Copyright 2020-2021
 @Desc    :   None
 @Usage   :   python 00.Hmmsearch.py -d [pep_dir] -c [cpu_nums] -o [output_dir] -m [hmm_file]

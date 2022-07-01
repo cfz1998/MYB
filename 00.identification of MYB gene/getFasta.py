@@ -5,7 +5,7 @@
 @Time    :   2021/11/15 13:34:03
 @Author  :   Zhangchaofan
 @Version :   1.0
-@Contact :   zhangchaofan01@cass.cn
+@Contact :   zhangchaofan22@163.com
 @License :   (C)Copyright 2020-2021
 @Desc    :   Get gene sequence from fasta file.
 @Usage   :   python getFasta.py species.pep gene_lst gene_fa
