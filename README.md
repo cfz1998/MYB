@@ -12,12 +12,12 @@ This pipeline is designed to:
 
 Required software:
 
-> hmmsearch = v3.3.2
-> orthofinder = v2.5.4
-> iqtree = v2.1.4
-> mafft = v7.487
-> diamond = v2.0.14
-> KaKs_Calculator = v2.0
-> pal2nal.pl
-> parseFastalntoAXT.pl  
-> axt2one-line.py
+> hmmsearch = v3.3.2  
+> orthofinder = v2.5.4  
+> iqtree = v2.1.4  
+> mafft = v7.487  
+> diamond = v2.0.14  
+> KaKs_Calculator = v2.0  
+> pal2nal.pl  
+> parseFastalntoAXT.pl   
+> axt2one-line.py  
