@@ -1,5 +1,10 @@
 ### identification of MYB gene
 
+#### 0. get_longest_isoform.py
+
+> Get the longest isoform from raw peptide fasta file.
+> Usage: python get_longest_isoform.py [raw_peptide] [longest_isoform]
+
 #### 1. getFasta.py
 
 > Get sequence from fasta file.  
