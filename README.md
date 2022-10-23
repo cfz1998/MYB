@@ -3,7 +3,7 @@
 MYB scripts  
 By Chaofan Zhang (zhangchaofan22@163.com)  
 Version 1.1  
-Date: 10/18/2022  
+Date: 10/23/2022  
 This pipeline is designed to:
 
 1. Identification of the MYB Gene
