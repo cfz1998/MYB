@@ -1,6 +1,6 @@
 ### identification of neo-sub-functionalized genes
 
-#### RNA-seq pipeline
+#### RNA-seq pipeline  
 
 ```python
 # hisat2
