@@ -12,6 +12,7 @@
 """
 from sys import argv
 import gzip
+import os
 
 def readFasta(fastaFile):
     f1 = gzip.open(fastaFile, 'rt') if fastaFile.endswith('gz') else open(fastaFile)
@@ -54,6 +55,9 @@ def main():
 
     ouf_w = open(argv[2], 'w')
     for gene_name in gene_seq_dic:
+        ## normalize node names if required
+        # species_name = os.path.basename(argv[1]).split('.')[0]
+        # ouf_w.write(">"+species_name+"|"gene_seq_dic[gene_name][0]+"\n"+gene_seq_dic[gene_name][1]+"\n")
         ouf_w.write(">"+gene_seq_dic[gene_name][0]+"\n"+gene_seq_dic[gene_name][1]+"\n")
 
     ouf_w.close()
