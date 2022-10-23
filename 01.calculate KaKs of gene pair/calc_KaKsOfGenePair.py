@@ -115,7 +115,6 @@ def dispose_one(ouf, row_pep_file, pair_file, cds_file):
         ), shell=True)
 
         # KaKs_Calculator 
-        # Change settings
         subprocess.call("KaKs_Calculator -i %s -o %s -m YN 2>/dev/null" % (
             os.path.join(ouf, '02.cds_aln', temp[0]+'-'+temp[1]+'.fa.axt'),
             os.path.join(ouf, '03.kaks', temp[0]+'-'+temp[1]+'.kaks')
